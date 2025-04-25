@@ -9,3 +9,4 @@ class Demo8{
         System.out.printf("area of triangle : %.2f",area);
     }
 }
+
